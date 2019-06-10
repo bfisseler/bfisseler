@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>//bfisseler.de/</loc>
+    <lastmod>2018-07-26T17:44:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//bfisseler.de/blog/</loc>
+    <lastmod>2018-07-26T17:44:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//bfisseler.de/blog/more/</loc>
+    <lastmod>2018-07-26T17:44:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//bfisseler.de/blog/second/</loc>
+    <lastmod>2018-07-25T17:44:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//bfisseler.de/blog/first/</loc>
+    <lastmod>2018-07-24T17:44:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//bfisseler.de/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//bfisseler.de/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>//bfisseler.de/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>//bfisseler.de/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>//bfisseler.de/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//bfisseler.de/presentations/</loc>
+  </url>
+  
+</urlset>
